@@ -1,1 +1,16 @@
-There is no official support for this device yet
+{
+  "response": [
+    {
+        "maintainer": "Anon_pacy",
+        "oem": "Xiaomi",
+        "device": "miatoll",
+        "device_name": "Redmi Note 9 series/Poco M2",
+        "filename": "Matrixx-v10.7.1-Official-miatoll-Vanilla-20240820.zip",
+        "download": "https://sourceforge.net/projects/miatoll-rom/files/A14/Project_Matrixx/Matrixx-v10.7.1-Unofficial-miatoll-Vanilla-20240820.zip/download",
+        "timestamp": 1724400751,
+        "md5": "7148255bc6906725af43b56c892f9cb3",
+        "size": 1532964608,
+        "version": "v10.7.1"
+    }
+  ]
+}
