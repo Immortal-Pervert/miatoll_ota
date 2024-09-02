@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "miatoll",
         "device_name": "Miatoll",
-        "filename": "Matrixx-v10.7.2-Unofficial-miatoll-Vanilla-20240826.zip",
-        "download": "https://sourceforge.net/projects/miatoll-rom/files/A14/Project_Matrixx/Vanilla/Matrixx-v10.7.2-Unofficial-miatoll-Vanilla-20240826.zip/download",
-        "timestamp": 1724681046,
-        "md5": "38ab6e53beec595a2c0680d9738da85a",
-        "size": 1531455590,
-        "version": "v10.7.2"
+        "filename": "Matrixx-v10.7.3-Unofficial-miatoll-Vanilla-20240902.zip",
+        "download": "https://sourceforge.net/projects/miatoll-rom/files/A14/Project_Matrixx/Vanilla/Matrixx-v10.7.3-Unofficial-miatoll-Vanilla-20240902.zip/download",
+        "timestamp": 1725271130,
+        "md5": "693be7ae885446fb22c8d14b72860e00",
+        "size": 1531506963,
+        "version": "v10.7.3"
     }
   ]
 }

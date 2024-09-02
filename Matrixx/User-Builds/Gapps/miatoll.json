@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "miatoll",
         "device_name": "Miatoll",
-        "filename": "Matrixx-v10.7.2-Unofficial-miatoll-Gapps-20240826.zip",
-        "download": "https://sourceforge.net/projects/miatoll-rom/files/A14/Project_Matrixx/Gapps/Matrixx-v10.7.2-Unofficial-miatoll-Gapps-20240826.zip/download",
-        "timestamp": 1724682534,
-        "md5": "09663c93ba61306237c019deca263649",
-        "size": 1820696421,
-        "version": "v10.7.2"
+        "filename": "Matrixx-v10.7.3-Unofficial-miatoll-Gapps-20240902.zip",
+        "download": "https://sourceforge.net/projects/miatoll-rom/files/A14/Project_Matrixx/Gapps/Matrixx-v10.7.3-Unofficial-miatoll-Gapps-20240902.zip/download",
+        "timestamp": 1725271130,
+        "md5": "dff21328f739271da2494ad20e233397",
+        "size": 1819866971,
+        "version": "v10.7.3"
     }
   ]
 }
