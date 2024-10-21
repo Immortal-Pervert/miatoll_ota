@@ -1,0 +1,30 @@
+Flashing Steps
+
+Gapps Builds:
+1. Flash the recommended recovery
+2. Boot into the recovery
+3. Wipe Dalvik, Cache, Data and Metadata
+4. Flash the ROM Zip file
+5. Format Internal Storage by typing "yes"
+6. Reboot Device
+
+Vanilla Builds:
+1. Flash the recommended recovery
+2. Boot into the recovery
+3. Wipe Dalvick, Cache, Data and Metadata
+4. Flash "del-survival.zip" and reboot to recovery once again
+5. Flash the ROM Zip file
+6. Flash the preferred Gapps
+7. Format the Internal Storage by typing "yes"
+8. Reboot Device
+
+----------------------
+
+WARNING: I do NOT recommend dirty flashing. Do at your own risk. Don't complain about data loss later. Always take backups of important data.
+
+Dirty Flash:
+1. WIpe Dalvick and Cache. [Do not wipe any other partitions]
+2. Flash the ROM
+3. If using Vanilla, then flash gapps if it doesn't restore itself.
+4. If you were rooted, then flash the root method you used.
+5. Reboot to system.
