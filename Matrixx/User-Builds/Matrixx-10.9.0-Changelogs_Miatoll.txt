@@ -1,18 +1,6 @@
-Date: 22 October, 2024
+Date: 22 October, 2024 [Final EOL Build Most Probably]
 
 1. Build based on iHsan's Trees
 2. Latest YAMK Kernel
 3. OnePlus Dolby and Miui Camera
 4. Update Adreno Blobs
-
-
-Date: 21 October, 2024 [Build Rejected]
-
-1. Final EOL Build [Most Probably]
-2. Disable FRP
-3. Update Adreno Blobs from Quest 2 [credits to iHsan and clarencelol]
-4. Address IR Sepolicy denies [credits to iHsan]
-5. Revert "miatoll: libinit: set memory tweaks only for 4GB varinats" [credits to RiteshSahany]
-6. Moto Dolby and Miui Camera included
-7. Migrate sensor HAL to AIDL interface [credits to iHsan for helping]
-8. Default Kernel is YAMK [credits to c0smic]
